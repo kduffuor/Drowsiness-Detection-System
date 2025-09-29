@@ -24,6 +24,12 @@ A computer vision-based system that detects drowsiness in real-time using eye as
 - `dlib-19.24.99-cp312-cp312-win_amd64.whl`
 
 ## How It Works
+
+<video width="640" height="480" controls>
+  <source src="Demo/drowsiness_session.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Eye Aspect Ratio (EAR)
 The system uses the Eye Aspect Ratio formula to detect when eyes are closed:
 ```

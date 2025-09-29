@@ -25,10 +25,15 @@ A computer vision-based system that detects drowsiness in real-time using eye as
 
 ## How It Works
 
-<video width="640" height="480" controls>
-  <source src="Demo/drowsiness_session.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  
+### 🎥 Live Demo
+  
+https://github.com/user-attachments/assets/e803fcfc-2430-465d-aa97-fe2d12d71f56
+
+*Real-time drowsiness detection in action - showing eye tracking, alertness scoring, and warning system*
+
+</div>
 
 ### Eye Aspect Ratio (EAR)
 The system uses the Eye Aspect Ratio formula to detect when eyes are closed:
